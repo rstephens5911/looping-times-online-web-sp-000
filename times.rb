@@ -2,7 +2,7 @@ def using_times
 	#your code here
 end
 
-jewels_in_bag = 100 
+jewels_in_bag = 100
 
 def jewels
   3.times do
@@ -12,11 +12,7 @@ def jewels
   end
 
   puts "we have #{jewels_in_bag} jewels still to hide!"
-    
+
   end
 
   jewels
-
-
-
-
