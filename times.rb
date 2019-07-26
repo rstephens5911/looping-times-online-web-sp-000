@@ -2,9 +2,10 @@ def using_times
 	#your code here
 end
 
-jewels_in_bag = 100
+
 
 def jewels
+  jewels_in_bag = 100
   3.times do
     puts "hiding 10 stolen jewels."
     jelwels_in_bag = jewels_in_bag - 10
